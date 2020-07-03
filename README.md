@@ -1,2 +1,2 @@
 # personal-website
-This is the code for my personal website, written in React.js 
+Repository for my personal website, written in React.js hosted with Firebase Hosting at www.salmanshahid.ca
